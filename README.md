@@ -1,5 +1,5 @@
 # wordpress-portfolio
-## These are some of my recent websites which built in wordpress
+## Some of my recent websites which built on wordpress
 https://celluniverse.ca<br>
 https://mobileexpertscanada.com<br>
 https://fpccargo.com<br>
